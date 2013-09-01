@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Omrails::Application.config.secret_key_base = '416ba1a492270683548c8a8f8a809f588c73d5682c0039b42424dbd31c69be41c88146c729cd3e76a6d51a0980a6fd0b60555f8ba5eee2487b7ef377adbcd015'
+Omrails::Application.config.secret_key_base = 'a1494030879ed065619a84dd55e9ae77099df6c1b01cd08e44d05e44268abf5a322a052945c18efe775768a1956b5141cbe5ab753e6c28387aa16729acca8e42'
